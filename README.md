@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Oğuzhan Aydın</h1>
-<h3 align="center">.Net Web Developer🌟</h3>
+<h1 align="center" style="color:#004953;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Oğuzhan Aydın</h1>
+<h3 align="center" style="color:#004953;">.Net Web Developer🌟</h3>
 
 <br>
 
