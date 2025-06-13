@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning .Net Web Development and other programming languages.
 - 📫 How to reach me: **oguzz.21@hotmail.com**
 - 🚀 My Personal Website: **www.ouz.com**
-- ⚡ Fun Fact: Code💻,Music🎵 and Fitness are the reasons to live.
+- ⚡ Fun Fact: Code💻,Music🎵 and Fitness 💪 are the reasons to live.
 
 
 <br>
