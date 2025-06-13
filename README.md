@@ -83,7 +83,7 @@
 ### FUPICO/GTS-Backend Activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/5b320b024d0c7c8607c66717e94c6e7e69d206d2.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-[![Forkers repo roster for @OguzhannAydin/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
+
 
 
 ### 📊 Contribution Stats
