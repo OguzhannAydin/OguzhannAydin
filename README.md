@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=004953&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Oğuzhan+Aydın;DotNet+Web+Developer" alt="Typing SVG" />
+  <img src="https://your-image-url.com/my-title.png" alt="Hi, I'm Oğuzhan Aydın">
 </p>
-<br>
 
 <p><img align="right" style="height:450px;" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="" /></p>
 
