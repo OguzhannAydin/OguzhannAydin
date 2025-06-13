@@ -6,9 +6,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=004953&center=true&vCenter=true&width=500&lines=Hi+I'm+Oğuzhan+Aydın;DotNet+Web+Developer;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG" />
-</p>
 
 ---
 
