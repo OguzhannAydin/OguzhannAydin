@@ -85,9 +85,6 @@
 
 [![Forkers repo roster for @OguzhannAydin/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
 
 ### 📊 Contribution Stats
 <img alt="Oguzhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=OguzhannAydin&bg_color=0d1117&color=0080ff&line=407bfe&point=0080ff&hide_border=true" />
