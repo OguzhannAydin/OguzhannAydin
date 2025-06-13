@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://your-image-url.com/my-title.png" alt="Hi, I'm Oğuzhan Aydın">
-</p>
-
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#004953">Oğuzhan Aydın</span>
+</h1>
+<h3 align="center">🌐 .Net Web Developer 🌟</h3>
 <p><img align="right" style="height:450px;" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="" /></p>
 
 <br>
