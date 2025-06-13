@@ -62,8 +62,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=004953&center=true&vCenter=true&multiline=true&width=600&height=100&lines=public+class+Oğuzhan+Aydın+%7B;++.NET+Developer();++Loves(Code%2C+Music%2C+Fitness);%7D" alt="coding animation" />
+
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
